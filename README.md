@@ -23,7 +23,7 @@ The fine-tuning uses **Databricks Dolly 15K**, a dataset containing **15,011** s
 - **Precision:** FP16
 
 ### Training Log
-![SFT traing logging](train_logging\SFT_logging.png))
+![SFT traing logging](train_logging/SFT_logging.png))
 
 ### Results
 

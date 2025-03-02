@@ -25,9 +25,6 @@ The fine-tuning uses **Databricks Dolly 15K**, a dataset containing **15,011** s
 ### Training Log
 ![SFT traing logging](train_logging/SFT_logging.png))
 
-### Results
-
-The SFT phase concluded with **5000 steps**, achieving a final loss of **1.167**, indicating improved instruction-following capabilities.
 
 ## Direct Preference Optimization (DPO)
 
